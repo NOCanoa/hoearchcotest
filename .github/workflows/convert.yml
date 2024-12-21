@@ -1,4 +1,4 @@
-name: Sync to Docker Hub
+name: Sync to Docker Hubd
 on:
   workflow_dispatch:
 
